@@ -1,25 +1,25 @@
-sexo,idade,categoria,estado
+Sexo,Idade,Categoria,Estado
 M,27,padaria,São Paulo
 F,58,açougue,Paraná
-M,47,frios,Santa Catarina
+M,47,caixa,Santa Catarina
 F,21,caixa,Rio de Janeiro
 F,42,gestão,Paraná
 M,60,limpeza,Rio Grande do Sul
 F,50,padaria,Minas Gerais
-M,40,açougue,São Paulo
+M,40,gestão,São Paulo
 F,31,frios,Rio Grande do Sul
 M,63,caixa,Santa Catarina
 F,22,gestão,Paraná
 M,57,limpeza,Minas Gerais
 F,25,padaria,Paraná
 M,74,açougue,Rio Grande do Sul
-F,51,frios,São Paulo
+F,51,gestão,São Paulo
 M,37,caixa,Santa Catarina
 F,45,gestão,Minas Gerais
 M,68,limpeza,Rio de Janeiro
 F,19,padaria,Paraná
 M,23,açougue,São Paulo
-F,78,frios,Santa Catarina
+F,78,caixa,Santa Catarina
 M,54,caixa,Rio Grande do Sul
 F,35,gestão,Minas Gerais
 M,41,limpeza,São Paulo
@@ -28,31 +28,31 @@ M,28,açougue,Paraná
 F,61,frios,Minas Gerais
 M,48,caixa,Rio Grande do Sul
 F,30,gestão,São Paulo
-M,70,limpeza,Santa Catarina
+M,70,açougue,Santa Catarina
 F,20,padaria,Rio Grande do Sul
-M,33,açougue,Minas Gerais
-F,47,frios,Paraná
+M,33,gestão,Minas Gerais
+F,47,caixa,Paraná
 M,79,caixa,Santa Catarina
 F,24,gestão,São Paulo
-M,52,limpeza,Rio Grande do Sul
+M,52,gestão,Rio Grande do Sul
 F,44,padaria,Paraná
 M,65,açougue,São Paulo
 F,39,frios,Santa Catarina
 M,43,caixa,Rio de Janeiro
 F,55,gestão,Minas Gerais
 M,30,limpeza,Paraná
-F,71,padaria,Santa Catarina
+F,71,caixa,Santa Catarina
 M,18,açougue,Minas Gerais
 F,67,frios,Rio Grande do Sul
 M,46,caixa,São Paulo
 F,28,gestão,Paraná
-M,53,limpeza,Rio de Janeiro
-F,49,padaria,Minas Gerais
+M,53,gestão,Rio de Janeiro
+F,49,açougue,Minas Gerais
 M,36,açougue,Santa Catarina
 F,60,frios,Rio Grande do Sul
 M,75,caixa,Paraná
 F,29,gestão,São Paulo
-M,42,limpeza,Minas Gerais
+M,42,gestão,Minas Gerais
 F,26,padaria,Rio de Janeiro
 M,59,açougue,Santa Catarina
 F,34,frios,São Paulo
